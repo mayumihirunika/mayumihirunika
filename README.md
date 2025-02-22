@@ -3,7 +3,7 @@
  <h1 align="center" >Hi , I'm Mayumi Hirunika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 </h3>
 
-<!---Start--->
+<!----Start--->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=UI/UX+Developer;Frontend+Developer">
 </p>
